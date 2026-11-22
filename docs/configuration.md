@@ -27,7 +27,7 @@
 
 Пример содержимого:
 
-```properties
+```
 api.base.url=
 
 web.base.url=
@@ -50,7 +50,7 @@ android.automationName=
 
 Пример содержимого:
 
-```properties
+```
 timeout.api.response=
 timeout.mailslurp.email=
 
@@ -74,12 +74,10 @@ timeout.android.elementWaiting=
 
 Пример содержимого:
 
-```properties
+```
 users.user.username=
 users.user.email=
 users.user.password=
-
-admin.login=
 
 mailslurp.api.key=
 
